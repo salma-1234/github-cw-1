@@ -1,0 +1,58 @@
+********************************************************/
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    String name = "salma";
+	    
+	    System.out.println(" Hi My Name Is "  + name + " and my age is 14");
+	    
+		
+    
+	}
+}/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+public class Main
+{
+	public static void main(String[] args) {
+	    int  x =162 ;
+	    System.out.println("x>160");
+	    
+	    if(x>160) 
+		System.out.println("entry allowed");
+	}
+	
+}
+
+
+ Hi My Name Is salma and my age is 14
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+public class Main
+{
+	public static void main(String[] args) {
+	    int  x =162 ;
+	    System.out.println("x>160");
+	    
+	    if(x>160) 
+		System.out.println("entry allowed");
+	}
+	
+}
